@@ -1,16 +1,11 @@
 @font-face {
     font-family: Inter;
     src: url(./fonts/static/Inter-Bold.ttf);
-    
-    
 }
 @font-face {
     font-family: Lobster ;
     src: url(./fonts/Lobster/Lobster-Regular.ttf);
 }
-
-
-
 *{
     margin: 0;
     padding: 0;
